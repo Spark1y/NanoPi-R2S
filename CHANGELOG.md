@@ -1,5 +1,5 @@
 ## 20200309
-* 触发编译
+* test
 ## 20200308
 * 只允许从 LAN 访问 SSH
 * 更换 luci-app-unblockmusic
